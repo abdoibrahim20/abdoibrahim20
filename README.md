@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 # Hi there, I'm Abdelrahman 👋
 
 ### Full-Stack Web Developer | Cairo, Egypt 🇪🇬
@@ -95,23 +94,6 @@
 | [💪 IRONCLAD GYM](https://github.com/abdoibrahim20/ironclad-gym) | Bold Gym & Fitness Landing Page | HTML, CSS, JS |
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdoibrahim20&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoibrahim20&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-</div>
 
 ---
 
