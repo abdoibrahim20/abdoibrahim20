@@ -87,11 +87,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🦷 SmileCare](https://github.com/abdoibrahim20/smilecare-landing-page) | Professional Dental Clinic Landing Page | HTML, CSS, JS |
+| 🚀 [Startup Idea Generator](https://github.com/abdoibrahim20/startup-idea-generator) | AI-powered SaaS web app that generates and validates startup ideas with business analysis | HTML, CSS, JS |
 | [👗 Luxury Fashion Store](https://github.com/abdoibrahim20/Luxury-Fashion-Store) | Modern Luxury E-Commerce Platform | HTML, CSS, JS |
+| [💪 IRONCLAD GYM](https://github.com/abdoibrahim20/ironclad-gym) | Bold Gym & Fitness Landing Page | HTML, CSS, JS |
+| [🦷 SmileCare](https://github.com/abdoibrahim20/smilecare-landing-page) | Professional Dental Clinic Landing Page | HTML, CSS, JS |
 | [📊 Ultra Admin Dashboard](https://github.com/abdoibrahim20/ultra-admin-dashboard) | Responsive Admin Dashboard with Dark Mode | HTML, CSS, JS |
 | [🍽️ La Bella Restaurant](https://github.com/abdoibrahim20/La-Bella-Restaurant) | Luxury Italian Restaurant Website | HTML, CSS, JS |
-| [💪 IRONCLAD GYM](https://github.com/abdoibrahim20/ironclad-gym) | Bold Gym & Fitness Landing Page | HTML, CSS, JS |
 ---
 
 
