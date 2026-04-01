@@ -93,7 +93,7 @@
 | [🦷 SmileCare](https://github.com/abdoibrahim20/smilecare-landing-page) | Professional Dental Clinic Landing Page | HTML, CSS, JS |
 | [📊 Ultra Admin Dashboard](https://github.com/abdoibrahim20/ultra-admin-dashboard) | Responsive Admin Dashboard with Dark Mode | HTML, CSS, JS |
 | [🍽️ La Bella Restaurant](https://github.com/abdoibrahim20/La-Bella-Restaurant) | Luxury Italian Restaurant Website | HTML, CSS, JS |
-| [🌐 Portfolio Website](https://github.com/abdoibrahim20/portfolio/) | Futuristic Personal Portfolio with Particles & Custom Cursor | HTML, CSS, JS |
+| [🌐 Portfolio Website](https://abdoibrahim20.github.io/portfoilo/) | Futuristic Personal Portfolio with Particles & Custom Cursor | HTML, CSS, JS |
 ---
 
 
