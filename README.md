@@ -88,6 +88,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🚀 [Startup Idea Generator](https://github.com/abdoibrahim20/startup-idea-generator) | AI-powered SaaS web app that generates and validates startup ideas with business analysis | HTML, CSS, JS |
+| [👗 Stylique]((https://abdoibrahim20.github.io/Stylique/) | Luxury Outfit Builder & Fashion Store with Smart Styling | HTML, CSS, JS |
 | [👗 Luxury Fashion Store](https://github.com/abdoibrahim20/Luxury-Fashion-Store) | Modern Luxury E-Commerce Platform | HTML, CSS, JS |
 | [💪 IRONCLAD GYM](https://github.com/abdoibrahim20/ironclad-gym) | Bold Gym & Fitness Landing Page | HTML, CSS, JS |
 | [🦷 SmileCare](https://github.com/abdoibrahim20/smilecare-landing-page) | Professional Dental Clinic Landing Page | HTML, CSS, JS |
