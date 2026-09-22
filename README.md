@@ -36,7 +36,7 @@ I am an **AI Builder and engineering student** focused on turning ideas into pra
 | **Startup Idea Generator & Validator** | AI-powered product thinking, business analysis, idea scoring, and responsive UI | [View project](https://abdoibrahim20.github.io/Startup-Idea-Generator-Validator/) |
 | **LUXORA — Luxury Fashion Store** | E-commerce UX, product discovery, cart interactions, and multi-page navigation | [View project](https://abdoibrahim20.github.io/Luxury-Fashion-Store/) |
 | **Portfolio Website** | Personal branding, animated interactions, responsive layout, and visual storytelling | [View project](https://abdoibrahim20.github.io/portfoilo/) |
-| **Ultra Admin Dashboard** | Dashboard UI, data tables, filters, pagination, charts, and theme switching | [View project](https://abdoibrahim20.github.io/ultra-admin-dashboard/) |
+| **Dairy Brand Landing Page** | A professional, fully responsive landing page for a dairy products brand built with HTML, CSS, and JavaScript featuring product showcases and dedicated B2B supply solutions. | [View project](https://abdoibrahim20.github.io/Milk/) |
 | **Stylique — Outfit Builder** | Interactive shopping experience, outfit generation, persistent cart, and themes | [View project](https://abdoibrahim20.github.io/Stylique/) |
 | **Ironclad Gym** | Conversion-focused landing page, pricing presentation, animations, and mobile navigation | [View project](https://abdoibrahim20.github.io/ironclad-gym/) |
 
